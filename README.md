@@ -1,7 +1,6 @@
 # Trail & Summit Admin Portal
 
-A small React admin portal for an outdoor gear e-commerce store. Built for the
-"Building a React-Based Personal Project Showcase App" summative lab.
+A small React admin portal for an outdoor gear e-commerce store. 
 
 ## What it does
 
@@ -13,7 +12,7 @@ A small React admin portal for an outdoor gear e-commerce store. Built for the
 ## Tech
 
 - React + Vite
-- Tailwind CSS (utility classes, no separate CSS files per component)
+- Tailwind CSS 
 - React Router (client-side routing)
 - json-server as a simulated backend (reads/writes db.json)
 - Vitest + React Testing Library for tests
