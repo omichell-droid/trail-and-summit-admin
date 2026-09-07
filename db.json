@@ -1,0 +1,44 @@
+{
+  "store_info": [
+    {
+      "id": 1,
+      "name": "Trail & Summit Gear",
+      "description": "We are a small outdoor gear store based in Nairobi, Kenya, specializing in hiking and camping equipment for  weekend adventurers. Our mission is to provide high-quality gear for outdoor enthusiasts and adventurers. We are committed to sustainability and supporting local communities through our business practices.",
+      "phone_number": "+254 700 000 000"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Trailhead 40L Backpack",
+      "description": "A 40 liter hiking backpack with a padded hip belt and rain cover.",
+      "category": "Backpacks",
+      "price": 750,
+      "stock": 24
+    },
+    {
+      "id": 2,
+      "name": "Summit Down Jacket",
+      "description": "Lightweight packable down jacket.",
+      "category": "Apparel",
+      "price": 3000,
+      "stock": 12
+    },
+    {
+      "id": 3,
+      "name": "Ridge Trekking Poles",
+      "description": "Collapsible aluminum trekking poles, sold as a pair.",
+      "category": "Accessories",
+      "price": 4500,
+      "stock": 40
+    },
+    {
+      "id": 4,
+      "name": "Basecamp 2-Person Tent",
+      "description": "Freestanding 3-season tent with a full-coverage rainfly.",
+      "category": "Camping",
+      "price": 20000,
+      "stock": 8
+    }
+  ]
+}
