@@ -5,8 +5,7 @@ function Landing() {
     <section>
       <h1 className="text-2xl font-bold mb-3">Trail &amp; Summit Admin Portal</h1>
       <p className="text-gray-700 mb-3">
-        This is the internal admin portal for Trail &amp; Summit Gear, an
-        online outdoor equipment store. From here an administrator can:
+        This is the internal admin portal for Trail &amp; Summit Gear, a Nairobi-based outdoor equipment store. From here an administrator can:
       </p>
       <ul className="list-disc list-inside text-gray-700 space-y-1 mb-6">
         <li>Browse and search every product currently in the catalog</li>
