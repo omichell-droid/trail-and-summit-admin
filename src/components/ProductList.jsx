@@ -6,6 +6,7 @@ import { useStoreInfo } from "../hooks/useStoreInfo";
 
 function ProductList() {
   const { products, isLoading, error } = useProductContext();
+  const { storeInfo } = useStoreInfo();
  
 
   // Local state just for what the admin has typed into the search box
